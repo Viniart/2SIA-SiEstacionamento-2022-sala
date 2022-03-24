@@ -1,0 +1,25 @@
+Sistema de gerenciamento estacionamentos
+
+-Orientação de ocupação de vagas - com informações para vagas especiais
+-Entrada e saída de veículo mediante leitura de recibo com código de barra, biometria
+e leitura de cartão
+-Registro de tabela de preços para mensalistas ou avulsos, por dia e periodo
+-Monitoração remota da movimentação do estacionamento
+-Mapa de vagas disponiveis
+-Configuracao de perfil de acesso do usuario
+-Controle de parcerias e convênios
+-Processamento de pagamento em diversas modalidades
+-Controle automático de abertura de cancelas
+-Cadastramento automatico do veiculo por reconhecimento ótico ou via
+TAG de operadora de cobrança automática
+-Possibilidade de encontrar vaga livre via interface mobile
+-Registro dos motoristas proprietários
+
+App Mobile para permitir ao usuário ter acesso a seu ticket,
+ao valor cobrado, ao horário de entrada e saída e as vagas
+disponíveis além de possibilitar o uso de cupons de vaga pra marcar
+entrada e saída (código de barras)
+
+Página Web para controle da administração, com controle de
+entradas e saídas, além do controle de caixa e horistas/mensalistas
+e controle de caixa
